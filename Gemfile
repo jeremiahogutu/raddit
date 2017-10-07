@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'activerecord-native_db_types_override'
 
+gem 'devise', '~> 3.3.0'
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
