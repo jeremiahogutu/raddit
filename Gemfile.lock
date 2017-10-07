@@ -19,6 +19,7 @@ GEM
       activesupport (= 4.0.3)
       arel (~> 4.0.0)
     activerecord-deprecated_finders (1.0.4)
+    activerecord-native_db_types_override (0.2.1)
     activesupport (4.0.3)
       i18n (~> 0.6, >= 0.6.4)
       minitest (~> 4.2)
@@ -106,6 +107,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord-native_db_types_override
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
