@@ -27,6 +27,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+gem 'bootstrap-sass', '~> 3.2.0.2'
+
 gem 'activerecord-native_db_types_override'
 
 gem 'devise', '~> 3.3.0'
