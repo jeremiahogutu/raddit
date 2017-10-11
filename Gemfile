@@ -33,6 +33,8 @@ gem 'activerecord-native_db_types_override'
 
 gem 'acts_as_votable', '~> 0.10.0'
 
+gem 'simple_form', '~> 3.0.2'
+
 gem 'devise', '~> 3.3.0'
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
